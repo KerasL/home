@@ -1,0 +1,44 @@
+body
+{
+	background-color : white;
+	
+}
+
+.red-center
+{
+	text-align: center;
+	color: red;
+}
+
+#Health
+{
+	color : blue;
+}
+
+#Senses
+{
+	color: yellow;
+}
+
+p
+{
+	text-align : justify;
+	font-size : 12pt;
+}
+
+img
+{
+	border-color : black; 
+	border-width : medium;
+	border-style : solid;
+	padding : 15% ;
+	margin : 4% ;
+	margin-bottom : 10%;
+}
+
+
+
+
+	
+
+
